@@ -109,6 +109,11 @@ public class Main {
         WinDef.HWND hwnd = User32.INSTANCE.FindWindow(null,windowTitle);
         User32.INSTANCE.ShowWindow(hwnd,User32.SW_MINIMIZE);
     }
+    public static boolean renameJiyu(String JiyuPath){
+        File eXchange20_old = new File(JiyuPath+"eXchange20.dll");
+        File eXchange20_new = new File(JiyuPath+"eXchange20.dll.1");
+        return eXchange20_old.renameTo(eXchange20_new);
+    }
     public static void main(String[] args) throws IOException {
         System.out.println("# Jiyu Killer Java Edition");
         System.out.println("# By Afefegeb");

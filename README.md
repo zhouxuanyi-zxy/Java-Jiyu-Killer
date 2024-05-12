@@ -17,11 +17,11 @@
 ### 2.各版本的功能差异
 
 | 版本/特性                                                    | 杀死极域进程 | 检测所需文件是否存在 | 自动下载所需文件 | 自释放所需文件(base64) | 最小化屏幕广播   | 通过删除文件使极域停止运行 | <--的基础--自动从注册表读取极域程序地址 |
-| ------------------------------------------------------------ | ------------ | -------------------- | ---------------- | ---------------------- | ---------------- | -------------------------- | --------------------------------------- |
-| [Python-Nanruan-Killer](https://github.com/zhouxuanyi-zxy/Python-Nanruan-Killer) | ✔            | ✔                    | ✔                | ✔                      | ✔ (大部分情况下) | ✔                          | ✔                                       |
-| [Cpp-Nanruan-Killer](https://github.com/zhouxuanyi-zxy/Cpp-Nanruan-Killer) | ✔            | ×                    | ×                | ×                      | ×                | ×                          | ×                                       |
-| [CSharp-Jiyu-Killer](https://github.com/zhouxuanyi-zxy/CSharp-Jiyu-Killer) | ✔            | ✔                    | ×                | ×                      | ×                | ×                          | ×                                       |
-| [Java-Jiyu-Killer](https://github.com/zhouxuanyi-zxy/Java-Jiyu-Killer) | ✔            | ✔                    | ✔                | TODO                   | ✔ (未完全完成 )  | TODO                       | TODO                                    |
+| ------------------------------------------------------------ | ------------ | -------------------- | ---------------- | ---------------------- | ---------------- |---------------| --------------------------------------- |
+| [Python-Nanruan-Killer](https://github.com/zhouxuanyi-zxy/Python-Nanruan-Killer) | ✔            | ✔                    | ✔                | ✔                      | ✔ (大部分情况下) | ✔             | ✔                                       |
+| [Cpp-Nanruan-Killer](https://github.com/zhouxuanyi-zxy/Cpp-Nanruan-Killer) | ✔            | ×                    | ×                | ×                      | ×                | ×             | ×                                       |
+| [CSharp-Jiyu-Killer](https://github.com/zhouxuanyi-zxy/CSharp-Jiyu-Killer) | ✔            | ✔                    | ×                | ×                      | ×                | ×             | ×                                       |
+| [Java-Jiyu-Killer](https://github.com/zhouxuanyi-zxy/Java-Jiyu-Killer) | ✔            | ✔                    | ✔                | TODO                   | ✔ (未完全完成 )  | TODO (快了)     | TODO                                    |
 
 ** ✔ 为已经支持
 
